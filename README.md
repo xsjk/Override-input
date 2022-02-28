@@ -11,6 +11,7 @@ ctrl + right:       写入一个单词
 
 ctrl + m:           开启/关闭打字模式
 
+ctrl + shift + v:   全篇输入
 
 注意
 -----------
