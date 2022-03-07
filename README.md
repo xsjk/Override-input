@@ -5,18 +5,19 @@
 快捷键
 -----------
 
-ctrl + left:        删除一个单词
+| 快捷键 | 作用 |
+| ----- | ----- |
+| ctrl + left | 删除一个单词 |
+| ctrl + right | 写入一个单词 |
+| ctrl + shift + left | 删除一句句子 |
+| ctrl + shift + right | 写入一句句子 |
+| ctrl + m | 开启/关闭**打字模式** |
+| ctrl + v | 全篇输入 |
+| ctrl + b | 复位 |
 
-ctrl + right:       写入一个单词
-
-ctrl + m:           开启/关闭打字模式
-
-ctrl + shift + v:   全篇输入
 
 注意
 -----------
-请在使用前确保全局变量TXT正确
-
 请勿随意改变光标位置
 
 
