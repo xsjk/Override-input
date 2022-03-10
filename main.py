@@ -86,6 +86,7 @@ def switch():
 def reset():
     global j
     j = 0
+    keyboard.write(len(TXT)*'\b')    
 
 keyboard.add_hotkey('ctrl+m',switch)
 keyboard.add_hotkey('ctrl+b',reset)
